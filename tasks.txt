@@ -1,0 +1,10 @@
+0-file operations [Not in depth]
+1-refactor split function to accept the array of delimeters.
+2-study string builder and refactor the code to use it if needed.
+3-put all the utility functions into a separate file.[Extension Methods]
+4-use async programing with file operations.
+5- suppose u have a server machine with 4 cores and 8 threads.
+improve the performance of a cpu intensive operation by using parallel programming.
+
+--BONUS
+=======THREAD SAFE Operations=======
